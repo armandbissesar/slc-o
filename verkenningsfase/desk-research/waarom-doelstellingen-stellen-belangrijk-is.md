@@ -1,6 +1,6 @@
-# Waarom doelstellingen stellen belangrijk is
+# Waarom doelstellingen belangrijk zijn
 
-## Redenen waarom doelen opstellen belangrijk is
+## Redenen waarom doelen opstellen belangrijk zijn
 
 ### 1. Een doel geeft focus voor jezelf. Je weet waar je op moet letten
 

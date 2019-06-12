@@ -1,6 +1,19 @@
 # Desk research
 
-Algemeen onderzoek naar onderwerpen die relevant kunnen zijn voor SLC-Ondersteuning
+## Belangrijkste inzichten desk research:
+
+* "De slb’er begeleidt studenten bij het goed formuleren van leerdoelen gericht op de beroepscompetenties, het reflecteren op het eigen handelen en het geven van feedback op uitgevoerde taken, maar ook bij vragen rondom waarden, normen en ethiek. “ 
+* “SLC maakt gebruik van competentie regel 8c: “Een CMD’er stuurt zichzelf bij ten aanzien van de eigen ontwikkeling. Relatie met beroepspraktijk.” 
+* “Reflectie is moeilijk voor jongvolwassenen als ze het alleen moeten doen, Zij hebben feedback en een gesprek nodig.” 
+* “Regelmatig individueel en live contact met een coach heeft hun \(CMD’ers\) grote voorkeur boven online contact.“ 
+* “Ontwerp je ontwikkeling kan worden ingezet bij: studie-of loopbaankeuze traject, omgaan met aanpakken van persoonlijke belemmeringen of problemen binnen werk of studie en het terugbrengen van positieve ervaringen en emoties in studie/werk.“ 
+* Het focussen op de kwaliteiten van mensen en op de dingen die goed gaan leidt ook tot veel positieve effecten op de individuele en professionele ontwikkeling van mensen. Zo leidt de aanpak tot meer levensvreugde, het verminderen van depressie, beter leervermogen en meer creatief denken.
+
+Algemeen onderzoek naar onderwerpen die relevant kunnen zijn voor mijn afstudeerproject.
+
+{% page-ref page="literatuur-onderzoek.md" %}
+
+{% page-ref page="waarom-doelstellingen-stellen-belangrijk-is.md" %}
 
 ## Competenties in het curriculum
 
@@ -186,4 +199,16 @@ Competenties:
 Het vak draagt bij aan de ontwikkeling van een CMD'er.
 
 BRON: [https://studiegids.hva.nl/studiegids?edu=cmd-vt&acy=2018-2019&phase=Leerjaar%201&path=https%3A%2F%2Fmetadata-fdmci.mijnhva.nl%2FLists%2FDraftMetadata%2FDispForm.aspx%3FID%3D5197](https://studiegids.hva.nl/studiegids?edu=cmd-vt&acy=2018-2019&phase=Leerjaar%201&path=https%3A%2F%2Fmetadata-fdmci.mijnhva.nl%2FLists%2FDraftMetadata%2FDispForm.aspx%3FID%3D5197)
+
+## ResearchNED
+
+Onderzoek naar aansluiting en reputatie CMD-Amsterdam
+
+{% embed url="https://moodle.cmd.hva.nl/pluginfile.php/7153/mod\_page/content/67/ResearchNed%20eindrapport.pdf" %}
+
+## Moscow
+
+{% embed url="https://www.toolshero.nl/project-management/moscow-methode/" %}
+
+
 

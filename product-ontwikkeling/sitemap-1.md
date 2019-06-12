@@ -32,5 +32,6 @@
 
 ![](../.gitbook/assets/docent_versie_3.0.png)
 
-
+  
+Hierboven zien we de laatste versie van de sitemap. Tijdens het onderzoek heb ik ook steeds de sitemap van de SLC versie gemaakt. Dit is om te laten zien hoe de structuur van de SLC versie eruit zou kunnen zien. De focus ligt en blijft op die van de CMD’er.
 

@@ -111,5 +111,43 @@
     * Maak een kopje productbiografie
     * Verwerk je job stories met een screenshot
 
+## 12. Dinsdag 14 mei
+
+* Groenlicht presentatie: Oranje
+
+Feedback
+
+* In de design rationale komt niet duidelijk over hoe de ontwerp keuzes zijn gemaakt.
+* Je dient vooral feedback te krijgen over de content van de app
+  * Praat met nog meer SLC'ers
+  * De docent zal meer aangeven wat kan en wat niet
+* Zo kan je beter je keuzes formuleren
+* Vraag Jurre om zijn DR voor inspiratie
+* Laat SLC'ers de studenten versie van de app testen
+* Laat duidelijker je stepping stones zien
+* Laat zien hoe de Inzichten leidde tot een samenvatting waaruit je een conclusie trekt als onderzoeker.
+* Leerdoelen verbindt SLC'er en CMD'er laat dat prominent goed zien
+  * Met elkaar
+  * Op de hoogte houden van elkaar
+* Kijk wat de ideale app is en wat echt essentieel is
+* Linkjes werken niet in DR 
+
+## 13. Dinsdag 21 mei 
+
+* SLC'ers testresultaten verwerken in de nieuwe versie van de app
+* Maak een planning voor de laatste paar weken
+* Probeer je Design Challenge te beantwoorden
+  * Laagdrempeliger maken van contact zoeken en werken aan persoonlijke ontwikkeling ter ondersteuning van de slc'er en student.
+* Wat moet de app zijn en waarom?
+  * Student
+    * Voor de student kan je afspraken aanvragen om sneller en makkelijker gesprekken te voeren met je slc'er.
+    * Dat je als student weet waar je aan zou kunnen betreft je CMD loopbaan
+  * SLC'er
+    * Wie zijn de studenten van de SLC'er?
+    * Waar zijn ze meebezig?
+    * Hoe kan ik zij daarbij helpen?
+* Maak meer user journeys visueel in je design rationale om de lezers makkelijker bij de hand te nemen
+* Maak de visual wat de SLC'er en student verbind duidelijker
+
 
 

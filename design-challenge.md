@@ -1,5 +1,17 @@
 # Design Challenge
 
+## 7.0
+
+{% hint style="success" %}
+“Hoe kan een digitale toepassing, CMD Amsterdam studenten gedurende hun studie ondersteunen en helpen herinneren om ervoor te zorgen dat ze samen met hun SLC’er werken aan hun persoonlijke ontwikkeling?”
+{% endhint %}
+
+## 6.3
+
+{% hint style="success" %}
+Hoe kan een applicatie, CMD Amsterdam studenten gedurende hun studie ondersteunen en helpen herinneren om ervoor te zorgen dat ze samen met hun SLC’er werken aan hun persoonlijke ontwikkeling?
+{% endhint %}
+
 ## 6.2
 
 

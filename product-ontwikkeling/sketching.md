@@ -1,8 +1,14 @@
 # Sketching
 
-Op basis van job stories, card sorting, co-creaties en andere methodes heb ik  schetsen gemaakt. 
+Hier zijn al mijn schetsen te zien. Ik heb nog meer schetsen digitaal.:
 
-Het schets proces is hier te bekijken.
+![](../.gitbook/assets/img_4338.JPG)
+
+![](../.gitbook/assets/img_5667.JPG)
+
+![](../.gitbook/assets/img_7127.JPG)
+
+![](../.gitbook/assets/img_9993.JPG)
 
 ![](../.gitbook/assets/img_0248.JPG)
 
@@ -14,7 +20,23 @@ Het schets proces is hier te bekijken.
 
 ![](../.gitbook/assets/img_3120.JPG)
 
+![](../.gitbook/assets/img_7498.JPG)
 
+![](../.gitbook/assets/img_1682.JPG)
+
+![](../.gitbook/assets/img_1973.JPG)
+
+![](../.gitbook/assets/img_0846.JPG)
+
+![](../.gitbook/assets/img_0900.JPG)
+
+![](../.gitbook/assets/img_1522.JPG)
+
+![](../.gitbook/assets/img_3326.JPG)
+
+![](../.gitbook/assets/img_9483.JPG)
+
+![](../.gitbook/assets/img_1973.JPG)
 
 ![Belangrijkste schermen digitaal](../.gitbook/assets/schermafbeelding-2019-04-05-om-17.07.34.png)
 

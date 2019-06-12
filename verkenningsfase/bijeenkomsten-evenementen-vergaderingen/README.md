@@ -1,2 +1,2 @@
-# Bijeenkomsten/Evenementen/Vergaderingen
+# Bijeenkomsten/Evenementen
 

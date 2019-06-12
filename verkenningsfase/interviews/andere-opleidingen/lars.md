@@ -1,6 +1,0 @@
----
-description: ICT
----
-
-# Lars
-
